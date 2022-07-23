@@ -1,0 +1,8 @@
+﻿  agent.cpp
+C:\Users\27617\source\repos\AbaloneGameMali_\agent.cpp(239,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\27617\source\repos\AbaloneGameMali_\agent.cpp(391,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\27617\source\repos\AbaloneGameMali_\agent.cpp(456,17): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\27617\source\repos\AbaloneGameMali_\agent.cpp(544,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\27617\source\repos\AbaloneGameMali_\agent.cpp(609,17): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\27617\source\repos\AbaloneGameMali_\agent.cpp(93): warning C4715: 'scoreB': not all control paths return a value
+  AbaloneGameMali_.vcxproj -> C:\Users\27617\source\repos\AbaloneGameMali_\Debug\AbaloneGameMali_.exe
